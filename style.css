@@ -27,7 +27,7 @@ h3.name{
   margin-bottom: 30px !important;
 }
 article{
-  width: 50% !important;
+    width: 50% !important;}
 
 @media (min-width: 992px)
 .col-md-4 {
