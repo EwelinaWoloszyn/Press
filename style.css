@@ -1,3 +1,12 @@
+@media (min-width: 992px){
+div.sidebar.col-md-4 {
+    float: right !important;
+}
+}
+@media (min-width: 1200px){
+float: right !important;
+}
+
 div.profile p{
 text-align: justify;
 
