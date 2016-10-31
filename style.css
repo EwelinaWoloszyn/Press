@@ -5,8 +5,9 @@ div.sidebar.col-md-4 {
 }
 }
 @media (min-width: 1200px){
+    div.sidebar.col-md-4 {
 float: right !important;
-     width: 162px !important;
+        width: 162px !important;}
 }
 
 div.profile p{
