@@ -41,11 +41,11 @@ div.profile img{
   margin-bottom:20px;
 }
 img.arch{
-  width:120px;
-  height:100px;
-      margin-top: 18px;
-      float: left;
-margin-right: 9px;
+  width:120px !important;
+  height:100px !important;
+      margin-top: 18px !important;
+      float: left !important;
+margin-right: 9px !important;
 }
 div#disqus_thread{
   float:left;
