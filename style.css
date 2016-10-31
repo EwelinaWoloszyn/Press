@@ -14,9 +14,9 @@ div.profile ul{
 h3.name{
   margin-bottom: 30px !important;
 }
-article{
+/*article{
   width: 47.5% !important;
-}
+}*/
 @media (min-width: 992px)
 .col-md-4 {
     width: 33.3333%;
