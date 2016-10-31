@@ -1,0 +1,41 @@
+div.profile p{
+text-align: justify;
+
+}
+div.profile p a{
+float:right;
+
+}
+div.profile ul{
+
+  list-style: none;
+  padding-left: 0px;
+}
+h3.name{
+  margin-bottom: 30px !important;
+}
+article{
+  width:553px !important;
+}
+@media (min-width: 992px)
+.col-md-4 {
+    width: 33.3333%;
+}
+div.sidebar.col-md-4{
+  float:right;
+  width:162px;
+}
+div.profile img{
+  margin-bottom:20px;
+}
+img.arch{
+  width:120px;
+  height:100px;
+      margin-top: 18px;
+      float: left;
+margin-right: 9px;
+}
+div#disqus_thread{
+  float:left;
+      width: 523px;
+}
