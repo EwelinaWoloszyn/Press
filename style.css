@@ -15,8 +15,8 @@ float: right !important;
 }
 @media (min-width: 768px){
 article{
-    width:100% !important;
-    clear:left !important;}
+    width:100%;
+    clear:left;}
 }
 
 div.profile p{
