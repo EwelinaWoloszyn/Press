@@ -13,11 +13,7 @@ float: right !important;
     article{width:50% !important;
     float:left !important;}
 }
-@media (min-width: 768px){
-article{
-    width:100%;
-    clear:left;}
-}
+
 
 div.profile p{
 text-align: justify;
