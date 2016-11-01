@@ -9,7 +9,11 @@ div.sidebar.col-md-4 {
 float: right !important;
         width: 162px !important;}
 }
-
+@media (min-width: 700px){
+article{
+    width:100% !important;
+    clear:left !important;}
+}
 div.profile p{
 text-align: justify;
 
