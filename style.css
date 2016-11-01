@@ -48,18 +48,13 @@ div.profile ul{
 h3.name{
   margin-bottom: 30px !important;
 }
-article{
-    width: 50% !important;
-    float:left !important;}
+
 
 @media (min-width: 992px)
 .col-md-4 {
     width: 33.3333%;
 }
-div.sidebar.col-md-4{
-  float:right;
-  width:162px;
-}
+
 div.profile img{
   margin-bottom:20px;
 }
