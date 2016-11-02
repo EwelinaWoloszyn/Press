@@ -41,7 +41,12 @@ div.sidebar.col-md-4{
     aside.mm-wrapper{
     display:block;
     }
-  	
+    nav#side-nav.mm-menu{
+    display: block;
+    height: 100%;
+    overflow: visible;
+    position: relative;
+    }	
 
 }
 
