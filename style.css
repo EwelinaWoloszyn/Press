@@ -28,7 +28,10 @@ div.sidebar.col-md-4{
     article{
     
     width:100%;    
-    }    
+    }  
+    aside.mm-wrapper{
+    display:none;
+    }
     
 }
 
