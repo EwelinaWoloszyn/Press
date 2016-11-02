@@ -39,7 +39,7 @@ div.sidebar.col-md-4{
     width:100%;
     }
     aside.mm-wrapper{
-    display:none;
+    display:block;
     }
    div.mm-panels.nav {
 		position: relative;
