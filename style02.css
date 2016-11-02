@@ -12,6 +12,10 @@ aside.mm-wrapper{
     display:block !important;
     }
 }
+@media (min-width: 1024px){
+article{width:50% !important;
+    float:left !important;}
+}
 @media (min-width: 1200px){
     div.sidebar.col-md-4 {
 float: right !important;
