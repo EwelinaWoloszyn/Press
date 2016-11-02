@@ -4,7 +4,7 @@ div.sidebar.col-md-4 {
         width: 162px !important;
 }
 aside.mm-wrapper{
-    display:block;
+    display:block !important;
     }    
 }
 @media (min-width: 1200px){
@@ -16,7 +16,7 @@ float: right !important;
     article{width:50% !important;
     float:left !important;}
     aside.mm-wrapper{
-    display:block;
+    display:block !important;
     }
 }
 
