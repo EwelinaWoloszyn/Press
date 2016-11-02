@@ -3,6 +3,9 @@ div.sidebar.col-md-4 {
     float: right !important;
         width: 162px !important;
 }
+aside.mm-wrapper{
+    display:block;
+    }    
 }
 @media (min-width: 1200px){
     div.sidebar.col-md-4 {
@@ -12,6 +15,9 @@ float: right !important;
     }
     article{width:50% !important;
     float:left !important;}
+    aside.mm-wrapper{
+    display:block;
+    }
 }
 
 @media (min-width: 768px){
@@ -19,6 +25,9 @@ div.sidebar.col-md-4{
   float:right;
   width:162px;
 }
+aside.mm-wrapper{
+    display:block;
+    }    
 }
 @media (min-width: 600px){
 div.sidebar.col-md-4{
