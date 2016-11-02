@@ -11,6 +11,8 @@ div.sidebar.col-md-4 {
 aside.mm-wrapper{
     display:block !important;
     }
+ article{width:50% !important;
+    float:left !important;}   
 }
 @media (min-width: 1024px){
 article{width:50% !important;
